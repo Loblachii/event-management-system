@@ -24,6 +24,3 @@ packages/
 # OS files
 Thumbs.db
 Desktop.ini
-
-# XAMPP database exports
-*.sql
