@@ -1,0 +1,29 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# User settings
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet packages
+packages/
+
+# Logs
+*.log
+
+# Database
+*.mdf
+*.ldf
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# XAMPP database exports
+*.sql
